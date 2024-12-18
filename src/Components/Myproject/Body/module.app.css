@@ -1,0 +1,569 @@
+.body{
+
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Mmodal{
+    position: "absolute";
+    top: "50%";
+    left: "50%";
+    transform: "translate(-50%, -50%)";
+}
+
+.heading{
+    padding-top: 90px; 
+}
+
+
+.Homepage img{
+    width:600px;
+    height:400px; 
+}
+
+.mobileimg{
+    display: none;
+    height: 400px;
+    width: 200px;
+}
+.paragragh{
+
+    text-align: center;
+   
+}
+
+.quote{
+
+    text-align: start;
+}
+
+
+.card{
+
+    border:1px solid whitesmoke;   
+    z-index: 100;
+}
+
+
+.countings{
+
+    padding: 40px;
+}
+
+.countups{
+    padding:20px;
+}
+
+.card:hover{
+
+    border:1px solid wheat;
+    background-color: antiquewhite;
+    box-shadow: 0px 0px 5px 2px rgb(202, 201, 201);
+    
+    
+}
+
+.products{
+
+    background-color: aliceblue;
+}
+
+
+
+
+.productcard img{
+
+    width: 370px;
+    height: 250px;  
+}
+
+.Element{
+
+    
+    background-image: linear-gradient(
+        to right,
+         rgb(110, 237, 24),
+        white 35%,
+        white 65%,
+         rgb(227, 176, 20)
+         
+    );
+
+    background-repeat: no-repeat;
+    background-size: 100% 4px;
+    background-position: 0 center;
+}
+
+.Feedback{
+
+    padding: 20px;
+}
+
+
+.cards{
+
+    display: flex;
+    padding: 10px;
+}
+.cards img{
+    border-radius: 10%;
+   
+    width: 200px;
+    height: 80px;
+}
+
+.card-text{
+
+    text-align: justify;
+    padding-left: 6px;
+}
+
+.Magic{
+   
+    margin: 2px;
+    padding: 10px;
+    height: 200px;
+    background-image:linear-gradient(  #f3cd36 30%,  #00d4ff 100%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.magicfont{
+
+    font-family: Papyrus;
+}
+
+
+
+.Magicheaders button{
+
+   
+    border-radius: 12%;
+    padding: 10px;
+}
+
+.Magicheaders button:hover{
+
+   
+    
+    box-shadow: #00d4ff;
+    background-color: pink;
+    
+}
+
+
+
+
+
+
+/* Common Footer*/
+
+
+.commonfooter{
+
+   
+    height: 400px;
+    background-color: rgb(181, 240, 64);
+}
+
+.commonfooter img{
+
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+
+}
+
+.card-texts{
+
+    text-align: justify;
+    margin: 3px;
+}
+
+.navlinks{
+
+    text-align: start;
+}
+
+.links{
+
+    padding: 70px;
+    text-align: start;
+}
+
+ul li {
+
+    list-style: none;
+    padding: 5px;
+    text-align: start;
+    
+}
+
+ ul a {
+
+    text-decoration: none;
+    color: black;
+    
+}
+
+.followus{
+
+    text-align: end;
+}
+
+.followus i:hover{
+
+    color: rgb(50, 83, 248);
+}
+
+.links i{
+
+    padding: 7px;
+}
+
+.contactus{
+
+    padding: 70px;
+    text-align: start;
+    font-size: 18 px;
+   
+} 
+
+
+.decoration{
+    text-decoration: underline;
+    
+}
+
+
+/*Aboutus Page */
+
+.boxbreadcrumb{
+
+    padding-top: 65px;  
+}
+
+.headerbread{
+
+    text-align: start;
+}
+
+
+.breadcrumb{
+      padding-top: 20px;
+      background-color: #f3cd36;
+      justify-content: space-around;
+     
+     
+}
+
+
+
+.Aboutus img{
+
+    width:600px;
+    height: 400px;
+}
+
+.stores{
+
+    background-image: repeating-linear-gradient( rgb(21, 30, 190),rgba(164, 234, 137, 0.591),);
+}
+
+.stores img{
+
+    width: 400px;
+    height: 250px;
+}
+
+.states{
+
+    padding: 40px;
+}
+
+.states h3{
+
+    text-align: left;
+}
+
+.states p{
+
+    text-align: start;
+}
+
+.Corevalues{
+
+    padding: 60px;
+    height: 220px;
+    
+}
+
+.Corevalues h2{
+
+    align-items: center;
+    font-family: 'Lucida Sans';
+}
+
+.Corevalues p{
+
+    text-align: center;
+    font-family: Georgia;
+}
+
+.Corevalues li{
+
+    list-style: none;
+    display: inline-flex;
+    padding-left: 80px;
+    justify-content: stretch;
+    font-size: 20px;
+}
+
+.corevaluesi i {
+
+    padding-right: 10px;
+}
+
+.corevaluesi i:hover{
+
+    zoom: 1.1;
+
+    color: rgb(56, 220, 245);
+    height: auto;
+    
+}
+
+
+.directors{
+
+    height: 400px;
+    background-image: linear-gradient(lightgreen,skyblue 50%);
+
+}
+
+.Directorsection img{
+
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+}
+
+
+/*Gallery*/
+
+
+.Gallery{
+
+    overflow: hidden;
+}
+
+.figuresgallery img{
+
+    padding: 4px;
+    transition: scale 200ms;
+}
+
+
+
+.figureimage{
+
+    width: 300px;
+    height:200px;
+    
+}
+
+.Gallery:hover img{
+
+    scale:105%;
+}
+
+
+.caption h6{
+
+    color: black;
+    text-align: start;
+}
+
+
+
+/*Contactus*/
+
+.form{
+
+    background-color: #00d4ff;
+    height: 365px;
+}
+
+.Contactcimage img{
+
+    width:390px;
+    height: 365px;
+}
+
+
+
+/* Error Page*/
+
+.Errorpage{
+
+    width: 100%;
+    height: 600px;
+}
+
+
+
+/*Cookiesmainpage*/
+
+.gallery{
+
+    
+    border: 1px solid black;
+}
+
+.heading{
+
+    color: red;
+}
+
+.headings{
+
+    text-align: start;
+}
+
+.imagesize img{
+
+    width: 400px;
+    height: 250px;
+}
+
+.content{
+
+    float: right;
+}
+
+
+
+
+/* Cakes main page*/
+
+.galleria{
+
+    border:1px solid black;
+}
+
+
+.imagesection img{
+
+    height: 200px;
+    width: 200px;
+}
+
+
+.headings{
+
+    text-align: start;
+}
+
+/* Cakes Details Page*/
+
+.imagesection img{
+
+    width: 800px;
+    height: 500px;
+}
+
+
+
+
+
+/* Key Frames*/
+
+ @media(max-width:650px) {
+
+    .links{
+
+        display: none;
+    }
+
+    .contactus{
+
+        display: none;
+    }
+    
+    .mainimg{
+
+        display: none;
+    }
+
+     .Homepage .mobileimg{
+
+        display: block;
+        width:auto;
+        margin-left: 10px;
+    }
+
+    .Aboutus .mobileimg{
+
+        display: block;
+        
+    }
+
+
+    .Aboutus img{
+
+        width: 400px;
+        height: 400px;
+    }
+
+   
+    
+    .Corevalues{
+
+        display:none;
+
+        
+    }
+
+    .directors{
+
+        height: 1000px;
+    }
+
+    .Element{
+
+    
+        background-image: linear-gradient(
+            to right,
+             rgb(110, 237, 24),
+            white 35%,
+            white 65%,
+             rgb(227, 176, 20)
+             
+        );
+    
+        background-repeat: no-repeat;
+        background-size: 50% 1px;
+        background-position: 0 end;
+    }
+    
+
+    
+ }
+
+
+
+
+
+
+
+
+
+
+

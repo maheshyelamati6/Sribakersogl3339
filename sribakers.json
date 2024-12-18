@@ -1,0 +1,64 @@
+{
+  "Cakes": [
+    {
+      "id": "42eb",
+      "cakename": "White Cream Cool Cake-57224",
+      "imgpath": "https://img.freepik.com/free-photo/chocolate-cake-with-whipped-cream-fruits_140725-2715.jpg",
+      "category": "Cool Cakes",
+      "message": "White Cream Cake Used for Birthday Parties and Small Occasional Parties.",
+      "colour": "White Cream cakes"
+    },
+    {
+      "id": "d934",
+      "category": "Birthday Cakes",
+      "imgpath": "https://img.freepik.com/premium-photo/birthday-celebration-with-multi-colored-cake-candles-sweet-treats-generated-by-ai_188544-209679.jpg",
+      "cakename": "Pista colour cake-80475",
+      "colour": "Lavish Green and Light Blue",
+      "message": "Lavish Green and Light Blue Cake Used for Birthday Treats and Small Ocassional Parties. Quantity Served Min 500 GMS to 10 Kgs.\nAdded Toppins like Cashew paste and Badam paste with Pista Decorated."
+    },
+    {
+      "id": "6854",
+      "cakename": "Strawberry Cake-20876",
+      "imgpath": "https://img.freepik.com/free-photo/delicious-birthday-cake-with-candles_23-2150734986.jpg",
+      "category": "Valientines Cake",
+      "message": "Valentines Cake Used for Couples for Treat Purpose on Special Ocassions in their Life.",
+      "colour": "Light Red and White"
+    }
+  ],
+  "Cookies": [
+    {
+      "id": "2805",
+      "name": "Brown Cookies Served in Basket-02997",
+      "imgpath": "https://img.freepik.com/free-photo/delicious-cookies-arrangement_23-2150707157.jpg",
+      "colour": "Brown Chips Coated",
+      "category": "Almond Cookies",
+      "message": "Cookies Served in Basket and can be used as a Gift Hamper and Perfect Gift for Children Birthday Party and Family Occasions and For Travel."
+    },
+    {
+      "id": "04e2",
+      "name": "Butter Cookie  with Little salt Sprayed-23987",
+      "imgpath": "https://img.freepik.com/free-photo/delicious-cookies_144627-21569.jpg",
+      "colour": "Brown",
+      "category": "Butter Cookie",
+      "message": "Salt Sprayed Cookie made with 70% of Wheat."
+    }
+  ],
+  "Enquiry": [
+    {
+      "id": "c26c",
+      "name": "Satish",
+      "lastname": "Ravipathi",
+      "mobilenumber": "7799254857",
+      "email": "satishravipathi@gmail.com",
+      "Message": "Hi...Need to Check the Data Validation and Form Submission Checks."
+    },
+    {
+      "id": "f57e",
+      "name": "Mahesh",
+      "lastname": "Yelamati",
+      "mobilenumber": "7874203736",
+      "email": "maheshsri1316@gmail.com",
+      "Message": "Hi.... Interested to Know about the Cool Cakes for Birthday Party. Please call to this Number:)- 7799254857"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+.body{
+
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica;
+}
+
+.Element{
+
+    
+    background-image: linear-gradient(
+        to right,
+         rgb(110, 237, 24),
+        white 35%,
+        white 65%,
+         rgb(227, 176, 20)
+         
+    );
+
+    background-repeat: no-repeat;
+    background-size: 100% 4px;
+    background-position: 0 center;
+}
+
+/* Welcomepage*/
+.Welcomepage{
+
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+}
+
+
+
+/* HRLogin page*/
+
+.Admin{
+
+    padding-top: 90px;   
+}
+
+.header{
+
+    padding-top: 10px;
+}
+
+
+.Logindiv{
+
+    background-image: linear-gradient(lightgreen,white);
+}
+
+.Admin img{
+
+    width: 400px;
+    height: 500px;
+}
+
+/*HR Dashboard Page*/
+
+.panel{
+
+    border:1px solid black;
+    padding-top: 60px;
+
+}
+
+
+.buttons{
+
+    margin: 5px;
+    width: 100%;
+    height: 40px;
+    padding: 10px 20px;
+    background-color: lightgreen;
+}
+
+.buttons:hover{
+
+    text-decoration: underline;
+    color: black;
+    background-color: yellow;
+}
+
+
+
+/* View Cakes Page*/
+
+.galleria{
+
+    border:1px solid black;
+
+}
+
+.galleria img{
+
+    width:350px;
+    height: 300px;
+}
+
+.headers{
+
+    text-align: start;
+}
+
+
+
+/*View Cookies page*/
+
+.gallery{
+
+    
+    border: 1px solid black;
+    
+}
+
+.imagesection img{
+
+    height: 200px;
+    width: 200px;
+}
+
+.headings{
+
+    align-items: start;
+    
+}

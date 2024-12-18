@@ -38,13 +38,13 @@ const Aboutus = () => {
                 <h3>Vision:</h3>
                 <p>Spreading joy, one dessert at a time. At SRI Bakers, 
                   we envision a world where every celebration is infused with happiness, 
-                  where each dessert we craft becomes a sweet symphony of joy.</p>
+                  where each dessert we craft becomes a sweet symphony of joys.</p>
 
                   <h3>Mission:</h3>
                   <p>At SRI Bakers, we’re on a mission to create happiness through our delicious desserts. 
                     Crafting with care and quality ingredients, we aim to make every bite a moment to cherish. 
                     From birthdays to weddings, and every special occasion in between, 
-                    we’re here to sprinkle sweetness and spread smiles, one dessert at a time.</p>
+                    we are here to sprinkle sweetness and spread smiles, one dessert at a time.</p>
 
             </div>  
         </div>
